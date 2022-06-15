@@ -55,8 +55,10 @@ const HomeHeader = () => {
             marginTop: SIZES.small,
           }}
         >
-          Hello Fabio 👋👋
+          {" "}
+          Hello 👋👋
         </Text>
+
         <Text
           style={{
             fontFamily: FONTS.bold,
