@@ -8,7 +8,11 @@ import {
 } from "react-native";
 
 const DetailsBid = () => {
-  return;
+  return (
+    <View>
+      <Text>Ciao</Text>
+    </View>
+  );
 };
 
 export default DetailsBid;
